@@ -1,0 +1,6 @@
+# LLMS verification file for www.badlandspaintball.com
+domain: www.badlandspaintball.com
+owner: Badlands Inc.
+purpose: Verify site ownership and content authenticity for AI and LLM crawlers
+contact: info@badlandspaintball.com
+date: 2025-09-01
